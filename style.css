@@ -62,13 +62,12 @@ body::-webkit-scrollbar {
 
 .navbar-black{
 box-shadow: 0px 5px 10px 0px #333;
-color:  rgb(255, 149, 0);
+color: #c31717;
 background: #222;
 }
 .navbar-black .menu-items a{
-  color:  rgb(255, 149, 0);
+  color: #c31717;
 }
-
 .menu-items li {
   list-style: none;
   margin-left: 1.5rem;
